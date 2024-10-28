@@ -1,2 +1,4 @@
 test‚¾‚æ
 •ÏX‚ğ‰Á‚¦‚½
+- git add
+- git commit
